@@ -5,7 +5,7 @@ This is the R code for the paper:
 The MBC-code outputs a set of corrected localisations, obtained after estimating blinking dynamics, and clustering input localisations accordingly.
 Additionally, code for simulation of blinking clusters is also included.
 
-The example files 'example_LAT.R' and 'example_Simulation.R' are a gentle introduction to both simulation and MBC on real and simulated data. The interested reader can find additional information on the code below.
+The example files 'example_LAT.R' and 'example_Simulation.R' in the 'Examples' folder are a gentle introduction to both simulation and MBC on real and simulated data. The interested reader can find additional information on the code below.
 
 ## Coding environment
 We assume that RStudio and R are installed, as well as the following R packages:
