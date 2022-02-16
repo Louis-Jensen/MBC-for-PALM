@@ -1,0 +1,1 @@
+The Model Based Clustering (MBC) algorithm for cleaning of data artefacts in Photoactivated Localisation Microscopy (PALM). Also included are real experimental data of the Linker for activation of T cells (LAT) protein under various experimental conditions, as well as code for simulation of synthetic data.
